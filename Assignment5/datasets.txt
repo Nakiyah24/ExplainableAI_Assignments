@@ -1,0 +1,8 @@
+Datasets to work on:
+Coral (Did not really work out for me)
+https://www.kaggle.com/datasets/jxwleong/coral-reef-dataset
+
+
+(Image classification of healthy leaves vs unhealthy ones)
+https://www.kaggle.com/datasets/amandam1/healthy-vs-diseased-leaf-image-dataset/data
+
