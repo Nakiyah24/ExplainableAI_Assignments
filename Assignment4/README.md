@@ -16,7 +16,7 @@ Key features of interest:
 
 ## Methods
 
-We use three main interpretability techniques:
+I use three main interpretability techniques:
 
 1. **Partial Dependence Plot (PDP)**  
    - Shows the *average marginal effect* of a feature on model predictions.  
