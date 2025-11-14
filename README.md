@@ -16,4 +16,7 @@ Explained the concept of Permutation Feature Importance for a general-audience b
 **Assignment 6 – Part II: Code Tutorial — Permutation Feature Importance (PFI)**  
 Implemented PFI using the California Housing dataset to understand which features most influence a Random Forest regressor’s predictions of median house value. Built a baseline model, computed the drop in R² for each feature, and visualized results with a table and bar chart (mean ± std). Found that **Median Income**, **Latitude**, and **Longitude** were dominant predictors. Reflected on how PFI provides a global ranking of feature importance and how it can be extended to multiple models and metrics for deeper interpretability analysis.  
 
+**Assignment 9** — *Mechanistic Interpretability with a Tiny LSTM*:  
+Built a very small 1-layer LSTM to learn the reverse-complement of DNA sequences. Kept the model deliberately tiny so the hidden states were easy to inspect. Visualized logits, hidden activations, and neuron-by-position patterns to identify which neurons encoded sequence position, base type, or stayed inactive. Reflected on how even small models develop structure and noted interest in exploring how interpretability changes with deeper or larger LSTMs.
+
 *(More assignments will be added here as I complete them.)*
